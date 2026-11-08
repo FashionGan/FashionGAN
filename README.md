@@ -210,8 +210,3 @@ A public repository is not automatically open source. Before reusing or distribu
 - Radford et al. (2015), *Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks* — https://arxiv.org/abs/1511.06434
 - Karras et al. (2018), *A Style-Based Generator Architecture for Generative Adversarial Networks* — https://arxiv.org/abs/1812.04948
 - Saharia et al. (2022), *Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding (Imagen)* — https://arxiv.org/abs/2205.11487 (related image-synthesis research, not a GAN)
-
-## Additional Documentation
-
-- [Project Documentation 1](https://docs.google.com/document/d/1P6DfB11Kpqh9nwcPTHRLKA_XInLRsL9e1M822AsUNn4/edit?tab=t.0)
-- [Project Documentation 2](https://docs.google.com/document/d/1G19gn-hXRZSz6Ng6GIwg8pFwHN-F2E4-/edit?rtpof=true&tab=t.0)
